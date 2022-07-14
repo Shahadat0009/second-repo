@@ -66,3 +66,11 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-level-developer {
+    border-left: 7px solid blue;
+}
